@@ -1,1 +1,2 @@
-console.log(m)g
+const p = 'pagamento'
+console.log(m, p)
